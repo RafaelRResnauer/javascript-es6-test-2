@@ -144,6 +144,3 @@ function doAll(){
     }
 }
 doAll();
-
-/* FETCH, ASYNCH/AWAIT e EVENTEMMITER */
-
